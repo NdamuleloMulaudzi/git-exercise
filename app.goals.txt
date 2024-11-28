@@ -1,1 +1,3 @@
 Group E git exercise
+
+View Goal: Displays all active goals in a list format.
